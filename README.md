@@ -1,2 +1,2 @@
-# Shopping-App
-Shopping Webpage
+# Counter-App
+Using react-redux
